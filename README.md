@@ -1,4 +1,4 @@
-### AWS deployment program of the disease - symptom check webapp
+### AWS deployment program of the disease - symptom checker webapp
 The data was prepared using NLP alongside a team of medical experts
 
 #### disease_description.json
